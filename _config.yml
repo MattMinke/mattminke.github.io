@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: MM
+title_separator: "|"
 email:
 description: >- 
   I am a Software Engineer with a love for solving problems and write code. When I am away
