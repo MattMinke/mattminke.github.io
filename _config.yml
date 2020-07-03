@@ -16,12 +16,11 @@
 title: MM
 email:
 description: >- 
-  I am a Software Engineer with a love for solving problems and  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
+  I am a Software Engineer with a love for solving problems and write code. When I am away
+  from the computer I spend my time exploring the Colorado mountains and backcountry.
+twitter_username:
 github_username: MattMinke
-minimal_mistakes_skin: air
+minimal_mistakes_skin: contrast
 search: true
 
 # Build settings
@@ -58,9 +57,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Matt Minke"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "I am a Software Engineer with a love for solving problems and write code. When I am away from the computer I spend my time exploring the Colorado mountains and backcountry."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
