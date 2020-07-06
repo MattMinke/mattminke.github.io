@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
+title: Matt the Dev
 title_separator: "|"
 email:
 description: >- 
-  I am a Software Engineer with a love for solving problems and write code. When I am away
-  from the computer I spend my time exploring the Colorado mountains and backcountry.
+  I am a Software Engineer by profession. I have spent my carrer developing web applicaitons and systems of all sizes and complexity.
+  When I am away from the computer I spend my time exploring the Colorado mountains and backcountry.
 twitter_username:
 github_username: MattMinke
 minimal_mistakes_skin: contrast
@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Matt Minke"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I am a Software Engineer with a love for solving problems and write code. When I am away from the computer I spend my time exploring the Colorado mountains and backcountry."
+  bio    : "I am a Software Engineer by profession. I have spent my carrer developing web applicaitons and systems of all sizes and complexity. When I am away from the computer I spend my time exploring the Colorado mountains and backcountry."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
