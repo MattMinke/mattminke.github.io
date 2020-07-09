@@ -9,7 +9,7 @@ tags:
 published: true
 ---
 
-The thought of creating a blog has been rattling around in my head for quite sometime and recently a friend of mine started one and I figured it was time I do the same. Technology and the outdoors are two big parts of my life so I figure at this point that will be what I write about but time will tell. Who knows maybe I will discover I don't really want to write about technology or the outdoors and instead find enjoyment in blogging about gardening, or painting (highly doubt that but we will find out). 
+The thought of creating a blog has been rattling around in my head for quite sometime and recently a friend of mine started one and I figured it was time I do the same. Technology and the outdoors are two big parts of my life so I figure at this point that will be what I write about but time will tell. Who knows maybe I will discover I don't really want to write about technology or the outdoors and instead find enjoyment in blogging about roundabouts, or why the earth is not flat (highly doubt that but we will find out). 
 
 So why blogging
 ===============
